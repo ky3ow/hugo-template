@@ -7,14 +7,9 @@ pageRef = "/"
 weight = 1
 
 [[main]]
-name = "About"
-pageRef = "/about"
-weight = 2
-
-[[main]]
 name = "Blog"
 pageRef = "/pages"
-weight = 3
+weight = 2
 
 # footer menu
 # [[footer]]
