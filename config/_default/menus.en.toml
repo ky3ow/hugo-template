@@ -2,7 +2,7 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "About"
 pageRef = "/"
 weight = 1
 
@@ -10,6 +10,11 @@ weight = 1
 name = "Blog"
 pageRef = "/pages"
 weight = 2
+
+[[main]]
+name = "Tags"
+pageRef = "/tags"
+weight = 3
 
 # footer menu
 # [[footer]]
